@@ -1,0 +1,14 @@
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/bin/Debug/net8.0/Projeto-Cadastro-De-Produtos
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/bin/Debug/net8.0/Projeto-Cadastro-De-Produtos.deps.json
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/bin/Debug/net8.0/Projeto-Cadastro-De-Produtos.runtimeconfig.json
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/bin/Debug/net8.0/Projeto-Cadastro-De-Produtos.dll
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/bin/Debug/net8.0/Projeto-Cadastro-De-Produtos.pdb
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/obj/Debug/net8.0/Projeto-Cadastro-De-Produtos.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/obj/Debug/net8.0/Projeto-Cadastro-De-Produtos.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/obj/Debug/net8.0/Projeto-Cadastro-De-Produtos.AssemblyInfo.cs
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/obj/Debug/net8.0/Projeto-Cadastro-De-Produtos.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/obj/Debug/net8.0/Projeto-Cadastro-De-Produtos.dll
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/obj/Debug/net8.0/refint/Projeto-Cadastro-De-Produtos.dll
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/obj/Debug/net8.0/Projeto-Cadastro-De-Produtos.pdb
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/obj/Debug/net8.0/Projeto-Cadastro-De-Produtos.genruntimeconfig.cache
+/home/nicolas/Documentos/Meus Projetos/Projeto-Cadastro-De-Produtos/obj/Debug/net8.0/ref/Projeto-Cadastro-De-Produtos.dll

@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/bin/Debug/net8.0/Sistema-De-Caixa
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/bin/Debug/net8.0/Sistema-De-Caixa.deps.json
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/bin/Debug/net8.0/Sistema-De-Caixa.runtimeconfig.json
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/bin/Debug/net8.0/Sistema-De-Caixa.dll
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/bin/Debug/net8.0/Sistema-De-Caixa.pdb
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/obj/Debug/net8.0/Sistema-De-Caixa.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/obj/Debug/net8.0/Sistema-De-Caixa.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/obj/Debug/net8.0/Sistema-De-Caixa.AssemblyInfo.cs
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/obj/Debug/net8.0/Sistema-De-Caixa.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/obj/Debug/net8.0/Sistema-De-Caixa.sourcelink.json
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/obj/Debug/net8.0/Sistema-De-Caixa.dll
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/obj/Debug/net8.0/refint/Sistema-De-Caixa.dll
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/obj/Debug/net8.0/Sistema-De-Caixa.pdb
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/obj/Debug/net8.0/Sistema-De-Caixa.genruntimeconfig.cache
+/home/nicolas/Documentos/Meus Projetos/Sistema-De-Caixa/obj/Debug/net8.0/ref/Sistema-De-Caixa.dll
