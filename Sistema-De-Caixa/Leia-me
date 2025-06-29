@@ -1,0 +1,4 @@
+Um sistema de caixa simples, onde seja possível inserir o nome do produto, o preço e a quantidade desejada.
+Mais para frente, gostaria de incluir uma aba de cadastro para registrar nossos produtos, atribuindo um código a cada um, o que facilitará a usabilidade do sistema.
+Também desejo adicionar uma aba de consultas, que permita verificar a quantidade disponível para venda de cada produto pelo código.
+Além disso, quero implementar um sistema que dê baixa no estoque assim que a venda for concluída.
