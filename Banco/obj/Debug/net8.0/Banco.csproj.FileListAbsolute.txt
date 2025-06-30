@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Meus Projetos/Banco/bin/Debug/net8.0/Banco
+/home/nicolas/Documentos/Meus Projetos/Banco/bin/Debug/net8.0/Banco.deps.json
+/home/nicolas/Documentos/Meus Projetos/Banco/bin/Debug/net8.0/Banco.runtimeconfig.json
+/home/nicolas/Documentos/Meus Projetos/Banco/bin/Debug/net8.0/Banco.dll
+/home/nicolas/Documentos/Meus Projetos/Banco/bin/Debug/net8.0/Banco.pdb
+/home/nicolas/Documentos/Meus Projetos/Banco/obj/Debug/net8.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Meus Projetos/Banco/obj/Debug/net8.0/Banco.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Meus Projetos/Banco/obj/Debug/net8.0/Banco.AssemblyInfo.cs
+/home/nicolas/Documentos/Meus Projetos/Banco/obj/Debug/net8.0/Banco.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Meus Projetos/Banco/obj/Debug/net8.0/Banco.sourcelink.json
+/home/nicolas/Documentos/Meus Projetos/Banco/obj/Debug/net8.0/Banco.dll
+/home/nicolas/Documentos/Meus Projetos/Banco/obj/Debug/net8.0/refint/Banco.dll
+/home/nicolas/Documentos/Meus Projetos/Banco/obj/Debug/net8.0/Banco.pdb
+/home/nicolas/Documentos/Meus Projetos/Banco/obj/Debug/net8.0/Banco.genruntimeconfig.cache
+/home/nicolas/Documentos/Meus Projetos/Banco/obj/Debug/net8.0/ref/Banco.dll
